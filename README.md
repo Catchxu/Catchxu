@@ -1,4 +1,22 @@
-# Hi there 👋
+<div align="center">
+<h1>Hi there 👋 this is Kaichen Xu</h1>
+</div>
+
+<div align="center">
+
+<a href="https://catchxu.github.io">
+<img src="https://img.shields.io/badge/Homepage-Kaichen_Xu-blue" alt="catchxu.github.io">
+</a>
+
+<a href="https://orcid.org/0009-0001-1768-1303">
+<img src="https://img.shields.io/badge/ORCID-Kaichen_Xu-green" alt="orcid.org/0009-0001-1768-1303">
+</a>
+
+<a href="https://openreview.net/profile?id=~Kaichen_Xu1">
+<img src="https://img.shields.io/badge/OpenReview-Kaichen_Xu-darkred" alt="openreview.net/profile?id=~Kaichen_Xu1">
+</a>
+
+</div>
 
 ## About me ☝️🤓
 I'm Kaichen Xu. My research interests include but are not limited to generative model; computational biology and bioinformatics; theory of computation and deep learning. I am more than happy to research discussions and potential collaborations, please feel free to send me an email at kaichenxu358@gmail.com. More information can be found at my [academic page](https://catchxu.github.io/).
@@ -11,6 +29,13 @@ I'm Kaichen Xu. My research interests include but are not limited to generative 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Catchxu&theme=calm" />
 </div>
+
+
+## You might be insterested 🥳
+| Repository         | Introduction       |
+| ------------------ | ------------------ |
+| <b>[Nat Commun]</b> [STANDS](https://github.com/Catchxu/STANDS) | Detecting and Dissecting Anomalous Anatomic Regions in Spatial Transcriptomics with STANDS |
+| <b>[IJCAI 2024]</b> [ACSleuth](https://github.com/Catchxu/ACSleuth) | Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond |
 
 <!--
 **Catchxu/Catchxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
