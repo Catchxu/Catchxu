@@ -34,7 +34,7 @@ I'm Kaichen Xu. My research interests include but are not limited to generative 
 ## You might be insterested 🥳
 | Repository         | Introduction       |
 | ------------------ | ------------------ |
-| <b>[Nat Commun]</b> [STANDS](https://github.com/Catchxu/STANDS) | Detecting and Dissecting Anomalous Anatomic Regions in Spatial Transcriptomics with STANDS |
+| <b>[Nat Comm]</b> [STANDS](https://github.com/Catchxu/STANDS) | Detecting and Dissecting Anomalous Anatomic Regions in Spatial Transcriptomics with STANDS |
 | <b>[IJCAI 2024]</b> [ACSleuth](https://github.com/Catchxu/ACSleuth) | Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond |
 
 <!--
