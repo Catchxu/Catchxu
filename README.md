@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://catchxu.github.io">
-<img src="https://img.shields.io/badge/Homepage-Kaichen_Xu-blue" alt="catchxu.github.io">
+<img src="https://img.shields.io/badge/Homepage-Kaichen_Xu-purple" alt="catchxu.github.io">
 </a>
 
 <a href="https://orcid.org/0009-0001-1768-1303">
@@ -14,6 +14,10 @@
 
 <a href="https://openreview.net/profile?id=~Kaichen_Xu1">
 <img src="https://img.shields.io/badge/OpenReview-Kaichen_Xu-darkred" alt="openreview.net/profile?id=~Kaichen_Xu1">
+</a>
+
+<a href="https://scholar.google.com.pk/citations?hl=zh-CN&user=xYSy0xAAAAAJ">
+<img src="https://img.shields.io/badge/Google_Scholar-Kaichen_Xu-blue" alt="scholar.google.com.pk/citations?hl=zh-CN&user=xYSy0xAAAAAJ">
 </a>
 
 </div>
