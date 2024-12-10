@@ -38,6 +38,7 @@ I'm Kaichen Xu. My research interests include but are not limited to generative 
 ## You might be insterested 🥳
 | Repository         | Introduction       |
 | ------------------ | ------------------ |
+| <b>[AAAI 2025]</b> [MEATRD](https://github.com/wqlzuel/MEATRD) | MEATRD: Multimodal Anomalous Tissue Region Detection Enhanced with Spatial Transcriptomics |
 | <b>[Nat Comm]</b> [STANDS](https://github.com/Catchxu/STANDS) | Detecting and Dissecting Anomalous Anatomic Regions in Spatial Transcriptomics with STANDS |
 | <b>[IJCAI 2024]</b> [ACSleuth](https://github.com/Catchxu/ACSleuth) | Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond |
 
