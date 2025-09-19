@@ -38,9 +38,10 @@ I'm Kaichen Xu. My research interests include but are not limited to generative 
 ## You might be insterested 🥳
 | Repository         | Introduction       |
 | ------------------ | ------------------ |
-| <b>[AAAI 2025]</b> [MEATRD](https://github.com/wqlzuel/MEATRD) | MEATRD: Multimodal Anomalous Tissue Region Detection Enhanced with Spatial Transcriptomics |
+| <b>[NeurIPS 25]</b> [CAPE](https://github.com/Catchxu/CAPE) | Causality-Induced Positional Encoding for Transformer-Based Representation Learning of Non-Sequential Features |
+| <b>[AAAI 25]</b> [MEATRD](https://github.com/wqlzuel/MEATRD) | MEATRD: Multimodal Anomalous Tissue Region Detection Enhanced with Spatial Transcriptomics |
 | <b>[Nat Comm]</b> [STANDS](https://github.com/Catchxu/STANDS) | Detecting and Dissecting Anomalous Anatomic Regions in Spatial Transcriptomics with STANDS |
-| <b>[IJCAI 2024]</b> [ACSleuth](https://github.com/Catchxu/ACSleuth) | Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond |
+| <b>[IJCAI 24]</b> [ACSleuth](https://github.com/Catchxu/ACSleuth) | Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond |
 
 <!--
 **Catchxu/Catchxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
