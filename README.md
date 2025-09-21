@@ -23,7 +23,7 @@
 </div>
 
 ## About me 🥰
-I'm Kaichen Xu. My research interests include but are not limited to generative model; computational biology and bioinformatics; theory of computation and deep learning. I am more than happy to research discussions and potential collaborations, please feel free to send me an email at kaichenxu358@gmail.com. More information can be found at my [homepage](https://catchxu.github.io).
+I'm Kaichen Xu. My research interests include but are not limited to generative model, computational biology, theory of deep learning. I am more than happy to research discussions and potential collaborations, please feel free to send me an email at kaichenxu358@gmail.com. More information can be found at my [homepage](https://catchxu.github.io).
 
 ## Statistics 📈
 <div align="center">
