@@ -30,9 +30,6 @@ I'm Kaichen Xu. My research interests include but are not limited to generative 
 <img height="137px" src="https://github-readme-stats-torydeng.vercel.app/api?username=Catchxu&show_icons=true&theme=react" />
 <img height="137px"  src="https://github-readme-stats-torydeng.vercel.app/api/top-langs/?username=Catchxu&hide=jupyter%20notebook,html&theme=material-palenight&layout=compact&langs_count=8" />
 </div>
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Catchxu&theme=calm" />
-</div>
 
 
 ## You might be insterested 🥳
