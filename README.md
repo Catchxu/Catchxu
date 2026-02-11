@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/OpenReview-Kaichen_Xu-darkred" alt="openreview.net/profile?id=~Kaichen_Xu1">
 </a>
 
-<a href="https://scholar.google.com.pk/citations?hl=zh-CN&user=xYSy0xAAAAAJ">
+<a href="https://scholar.google.com.pk/citations?user=xYSy0xAAAAAJ&hl=en">
 <img src="https://img.shields.io/badge/Google_Scholar-Kaichen_Xu-blue" alt="scholar.google.com.pk/citations?hl=zh-CN&user=xYSy0xAAAAAJ">
 </a>
 
