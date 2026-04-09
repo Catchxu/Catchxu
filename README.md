@@ -36,7 +36,7 @@ I'm Kaichen Xu, a graduate student majoring in Computer Science at Emory Univers
 | Repository         | Introduction       | Venue              |
 | ------------------ | ------------------ | ------------------ |
 | [CAPE](https://github.com/Catchxu/CAPE) | Causality-induced positional encoding for transformer-based representation learning of non-sequential features | NeurIPS 2025 |
-| [MEATRD](https://github.com/wqlzuel/MEATRD) | MEATRD: multimodal anomalous tissue region detection enhanced with Spatial Transcriptomics | AAAI 2025 |
+| [MEATRD](https://github.com/wqlzuel/MEATRD) | MEATRD: Multimodal anomalous tissue region detection enhanced with Spatial Transcriptomics | AAAI 2025 |
 | [STANDS](https://github.com/Catchxu/STANDS) | Detecting and dissecting anomalous anatomic regions in Spatial Transcriptomics with STANDS | Nature&nbsp;Communications |
 | [ACSleuth](https://github.com/Catchxu/ACSleuth) | Domain adaptive and fine-grained anomaly detection for single-cell sequencing data and beyond | IJCAI 2024 |
 
