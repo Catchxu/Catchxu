@@ -35,10 +35,10 @@ I'm Kaichen Xu, a graduate student majoring in Computer Science at Emory Univers
 ## You might be insterested 🥳
 | Repository         | Introduction       | Venue              |
 | ------------------ | ------------------ | ------------------ |
-| [CAPE](https://github.com/Catchxu/CAPE) | Causality-Induced Positional Encoding for Transformer-Based Representation Learning of Non-Sequential Features | NeurIPS 2025 |
-| [MEATRD](https://github.com/wqlzuel/MEATRD) | MEATRD: Multimodal Anomalous Tissue Region Detection Enhanced with Spatial Transcriptomics | AAAI 2025 |
-| [STANDS](https://github.com/Catchxu/STANDS) | Detecting and Dissecting Anomalous Anatomic Regions in Spatial Transcriptomics with STANDS | Nature&nbsp;Communications |
-| [ACSleuth](https://github.com/Catchxu/ACSleuth) | Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond | IJCAI 2024 |
+| [CAPE](https://github.com/Catchxu/CAPE) | Causality-induced positional encoding for transformer-based representation learning of non-sequential features | NeurIPS 2025 |
+| [MEATRD](https://github.com/wqlzuel/MEATRD) | MEATRD: Multimodal anomalous tissue region detection enhanced with Spatial Transcriptomics | AAAI 2025 |
+| [STANDS](https://github.com/Catchxu/STANDS) | Detecting and dissecting anomalous anatomic regions in Spatial Transcriptomics with STANDS | Nature&nbsp;Communications |
+| [ACSleuth](https://github.com/Catchxu/ACSleuth) | Domain adaptive and fine-grained anomaly detection for single-cell sequencing data and beyond | IJCAI 2024 |
 
 <!--
 **Catchxu/Catchxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
