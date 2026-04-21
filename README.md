@@ -8,6 +8,14 @@
 <img src="https://img.shields.io/badge/Homepage-Kaichen_Xu-purple" alt="catchxu.github.io">
 </a>
 
+<a href="https://scholar.google.com.pk/citations?user=xYSy0xAAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google_Scholar-Kaichen_Xu-blue" alt="scholar.google.com.pk/citations?hl=zh-CN&user=xYSy0xAAAAAJ">
+</a>
+
+<a href="https://huggingface.co/kaichenxu">
+<img src="https://img.shields.io/badge/Hugging_Face-Kaichen_Xu-yellow" alt="huggingface.co/kaichenxu">
+</a>
+
 <a href="https://orcid.org/0009-0001-1768-1303">
 <img src="https://img.shields.io/badge/ORCID-Kaichen_Xu-green" alt="orcid.org/0009-0001-1768-1303">
 </a>
@@ -16,11 +24,8 @@
 <img src="https://img.shields.io/badge/OpenReview-Kaichen_Xu-darkred" alt="openreview.net/profile?id=~Kaichen_Xu1">
 </a>
 
-<a href="https://scholar.google.com.pk/citations?user=xYSy0xAAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google_Scholar-Kaichen_Xu-blue" alt="scholar.google.com.pk/citations?hl=zh-CN&user=xYSy0xAAAAAJ">
-</a>
-
 </div>
+
 
 ## About me 🥰
 I'm Kaichen Xu, a graduate student majoring in Computer Science at Emory University. My research interests include but are not limited to generative model and computational biology. I am more than happy to research discussions and potential collaborations, please feel free to send me an email at kaichenxu358@gmail.com. More information can be found at my [homepage](https://catchxu.github.io).
