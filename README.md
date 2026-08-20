@@ -32,8 +32,8 @@ I'm Kaichen Xu, a graduate student majoring in Computer Science at Emory Univers
 
 ## Statistics 📈
 <div align="center">
-<img height="137px" src="https://github-readme-stats-torydeng.vercel.app/api?username=Catchxu&show_icons=true&theme=react" />
-<img height="137px"  src="https://github-readme-stats-torydeng.vercel.app/api/top-langs/?username=Catchxu&hide=jupyter%20notebook,html&theme=material-palenight&layout=compact&langs_count=8" />
+<img height="137px" src="https://github-stats-extended.vercel.app/api?username=Catchxu&show_icons=true&theme=react" />
+<img height="137px"  src="https://github-stats-extended.vercel.app/api?username=Catchxu&hide=jupyter%20notebook,html&theme=material-palenight&layout=compact&langs_count=8" />
 </div>
 
 
